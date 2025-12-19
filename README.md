@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=800&height=100&lines=%F0%9F%91%8B+Hello%2C+World!+I'm+Herath;%F0%9F%9A%80+Software+Engineer;%F0%9F%8C%9F+Full-Stack+Developer;%E2%9A%A1+Cloud+Architecture+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=800&height=100&lines=%F0%9F%91%8B+Hello%2C+World!+I'm+Harsha;%F0%9F%9A%80+Software+Engineer;%F0%9F%8C%9F+Full-Stack+Developer;%E2%9A%A1+Building+Scalable+Solutions" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -24,25 +24,42 @@
 <img align="right" alt="Coding Animation" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```javascript
-const herath = {
-  location: "Sri Lanka",
-  background: "Full-Stack Developer with expertise in modern web technologies",
-  focus: "Building scalable applications & cloud architecture",
-  learning: ["Microservices", "Machine Learning", "Blockchain"],
-  challenge: "Contributing to meaningful open-source projects every week",
-  hobbies: ["Coding", "Reading", "Photography", "Hiking"],
-  funFact: "I can solve a Rubik's cube in under 2 minutes!"
+const harsha = {
+  location: "Sri Lanka 🇱🇰",
+  currentRole: "Software Engineer @ WEBS R US PTY LTD",
+  experience: "2+ years in Full-Stack Development",
+  education: "BSc in Computer Science - Eastern University",
+  specialization: [
+    "Enterprise Web Applications",
+    "React & Node.js Ecosystems",
+    "Cloud Architecture & DevOps",
+    "Team Leadership & Mentoring"
+  ],
+  currentFocus: "Leading frontend teams & building scalable rental platforms",
+  teamLeadership: "15 frontend developers + 2 QA engineers",
+  funFact: "Architected 10+ React dashboard panels using micro-frontend architecture!"
 };
 
-const skills = async () => {
-  await learnNewTechnologies();
-  buildAmazingSoftware();
-  shareTechKnowledge();
-  return improveContinuously();
+const dailyRoutine = async () => {
+  while (alive) {
+    eat();
+    sleep();
+    code();
+    repeat();
+  }
 };
 
-skills();
+dailyRoutine();
 ```
+
+### 🚀 Professional Highlights
+
+- 🏢 **Software Engineer** at WEBS R US PTY LTD (Frontend Team Lead)
+- 👥 Leading a team of 15+ developers and QA engineers
+- 🎯 Specialized in React, TypeScript, Node.js, and Next.js
+- 🏗️ Expert in micro-frontend architecture and atomic design patterns
+- 📊 Delivered 10+ production-ready enterprise applications
+- 🌐 Built platforms across property management, healthcare, hospitality, and AI
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -51,7 +68,7 @@ skills();
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Tech Stack & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Tech%20Stack-Hover%20to%20see%20technologies%20I%20use-dodgerblue?style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/badge/Tech%20Stack-Production%20Ready%20Technologies-dodgerblue?style=for-the-badge" height="35" />
 </p>
 
 <div align="center">
@@ -60,19 +77,19 @@ skills();
       <td valign="top" width="33%">
         <h3>Frontend</h3>
         <div align="center">
-          <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,vue,nextjs,tailwind,bootstrap,redux,materialui" /></a>
+          <a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,typescript,redux,html,css,tailwind,bootstrap,materialui" /></a>
         </div>
       </td>
       <td valign="top" width="33%">
         <h3>Backend</h3>
         <div align="center">
-          <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,django,laravel,dotnet,graphql,apollo" /></a>
+          <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,prisma,graphql" /></a>
         </div>
       </td>
       <td valign="top" width="33%">
         <h3>DevOps & Cloud</h3>
         <div align="center">
-          <a href="#"><img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,githubactions,prometheus,grafana" /></a>
+          <a href="#"><img src="https://skillicons.dev/icons?i=aws,azure,vercel,docker,kubernetes,git,github,firebase" /></a>
         </div>
       </td>
     </tr>
@@ -80,19 +97,19 @@ skills();
       <td valign="top" width="33%">
         <h3>Databases</h3>
         <div align="center">
-          <a href="#"><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,redis,firebase" /></a>
+          <a href="#"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase" /></a>
         </div>
       </td>
       <td valign="top" width="33%">
         <h3>Languages</h3>
         <div align="center">
-          <a href="#"><img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,go,rust,kotlin,swift" /></a>
+          <a href="#"><img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,c,cpp" /></a>
         </div>
       </td>
       <td valign="top" width="33%">
-        <h3>Tools</h3>
+        <h3>Tools & More</h3>
         <div align="center">
-          <a href="#"><img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,figma,postman,bash,powershell,linux" /></a>
+          <a href="#"><img src="https://skillicons.dev/icons?i=vscode,postman,figma,bash,linux,electron" /></a>
         </div>
       </td>
     </tr>
@@ -117,7 +134,7 @@ skills();
   
   <p align="center">
     <a href="https://github.com/herath98">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=herath98&theme=radical&border=7F3FBF&background=0D1117&stroke=F0DB4F&ring=ff3068&fire=ff3068&currStreakLabel=F0DB4F&hide_border=true" alt="Herath's GitHub streak"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=herath98&theme=radical&border=7F3FBF&background=0D1117&stroke=F0DB4F&ring=ff3068&fire=ff3068&currStreakLabel=F0DB4F&hide_border=true" alt="Harsha's GitHub streak"/>
     </a>
   </p>
 </div>
@@ -130,78 +147,82 @@ skills();
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Projects & Contributions
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Featured Projects
 
 <div align="center">
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">Project 1</h3>
+        <h3 align="center">🏨 Hotel Management System</h3>
         <p align="center">
-          <a href="https://github.com/herath98/project-1" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=herath98&repo=project-1&theme=radical&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F&text_color=FFFFFF&border_radius=10&hide_border=true" alt="Project 1"/>
+          <a href="https://github.com/herath98" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=herath98&repo=hotel-management&theme=radical&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F&text_color=FFFFFF&border_radius=10&hide_border=true" alt="Hotel Management System"/>
           </a>
           <br>
           <p align="center">
-            📱 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Comprehensive enterprise solution with 11 integrated modules serving complete hotel operations. Features enterprise-level security, scalability, and real-time data processing.
           </p>
           <p align="center">
-            <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
             <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
-            <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+            <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+            <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
+            <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
           </p>
         </p>
       </td>
       <td width="50%">
-        <h3 align="center">Project 2</h3>
+        <h3 align="center">🏠 Vivrestays</h3>
         <p align="center">
-          <a href="https://github.com/herath98/project-2" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=herath98&repo=project-2&theme=radical&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F&text_color=FFFFFF&border_radius=10&hide_border=true" alt="Project 2"/>
+          <a href="https://www.vivrestays.com/" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=herath98&repo=vivrestays&theme=radical&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F&text_color=FFFFFF&border_radius=10&hide_border=true" alt="Vivrestays"/>
           </a>
           <br>
           <p align="center">
-            💻 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Property marketplace platform with Guest Panel, Main Panel, and company website. End-to-end property listing, search, and transaction capabilities with microservices architecture.
           </p>
           <p align="center">
-            <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
-            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-            <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+            <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+            <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+            <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+            <img src="https://img.shields.io/badge/REST-02569B?style=flat-square&logo=rest&logoColor=white" alt="REST"/>
           </p>
         </p>
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">Project 3</h3>
+        <h3 align="center">🤖 Evatt AI</h3>
         <p align="center">
-          <a href="https://github.com/herath98/project-3" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=herath98&repo=project-3&theme=radical&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F&text_color=FFFFFF&border_radius=10&hide_border=true" alt="Project 3"/>
+          <a href="https://evattai.com/" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=herath98&repo=evatt-ai&theme=radical&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F&text_color=FFFFFF&border_radius=10&hide_border=true" alt="Evatt AI"/>
           </a>
           <br>
           <p align="center">
-            🚀 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Advanced AI-powered platform for training, deploying, and managing custom machine learning models. Comprehensive model management capabilities for data scientists and developers.
           </p>
           <p align="center">
-            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-            <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
-            <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+            <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+            <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+            <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="AI"/>
           </p>
         </p>
       </td>
       <td width="50%">
-        <h3 align="center">Project 4</h3>
+        <h3 align="center">⚡ Switchsquid</h3>
         <p align="center">
-          <a href="https://github.com/herath98/project-4" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=herath98&repo=project-4&theme=radical&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F&text_color=FFFFFF&border_radius=10&hide_border=true" alt="Project 4"/>
+          <a href="https://www.switchsquid.com/" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=herath98&repo=switchsquid&theme=radical&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F&text_color=FFFFFF&border_radius=10&hide_border=true" alt="Switchsquid"/>
           </a>
           <br>
           <p align="center">
-            ☁️ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Energy comparison platform helping users find the best deals on energy, mobile, and broadband plans. Features detailed comparison tools and rate analysis.
           </p>
           <p align="center">
-            <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
-            <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-            <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+            <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+            <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+            <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+            <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger"/>
           </p>
         </p>
       </td>
@@ -213,13 +234,27 @@ skills();
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-## <img src="https://media.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="40"> Current Status
+## 💼 Professional Experience
 
-<div align="center">
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
-    <img src="https://spotify-now-playing-ashy.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />
-  </a>
-</div>
+### 🏢 WEBS R US PTY LTD
+**Software Engineer** | *Aug 2025 - Present*
+- Leading full-stack development for rental booking platform as Frontend Team Lead
+- Managing team of 15 frontend developers and 2 QA engineers
+- Architecting scalable applications using React, TypeScript, Redux, Node.js/Express
+- Implementing role-based authentication, dynamic booking forms, and permission-based access
+
+**Associate Software Engineer** | *Mar 2025 - Aug 2025*
+- Led frontend development for enterprise cargo management system
+- Architected scalable React applications with advanced state management
+
+### 🚀 Similator (PVT) LTD
+**Associate Software Engineer** | *Aug 2024 - Feb 2025*
+- Architected 10+ React dashboard panels using atomic design and micro-frontend architecture
+- Specialized in Swagger API documentation ensuring 99.9% frontend-backend integration reliability
+
+### 💡 Semantix Labs (PVT) LTD
+**Intern - Software Engineer** | *Feb 2024 - Aug 2024*
+- Developed production-ready applications using Next.js with SSR/SSG optimization
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -229,33 +264,27 @@ skills();
 
 <div align="center">
   <a href="https://www.linkedin.com/in/harsha-udayanga-herath-773a07224/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&style=plastic" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&style=plastic" alt="Twitter" />
+  <a href="https://www.harshadev.c..." target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://dev.to/your-dev" target="_blank">
-    <img src="https://img.shields.io/badge/DEV.to-%230A0A0A.svg?&style=for-the-badge&logo=dev-to&logoColor=white&style=plastic" alt="Dev.to" />
+  <a href="https://github.com/herath98" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://medium.com/@your-medium" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&style=plastic" alt="Medium" />
-  </a>
-  <a href="mailto:harshaudayanga401@gmail.com.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&style=plastic" alt="Email" />
-  </a>
-  <a href="https://www.your-website.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=safari&logoColor=white&style=plastic" alt="Website" />
+  <a href="mailto:harshaudayanga401@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   
-  <h3>✨ Thank you for visiting my profile! ✨</h3>
+  <h3>✨ "Code is like humor. When you have to explain it, it's bad." - Cory House ✨</h3>
   
-  <a href="https://www.buymeacoffee.com/your-username">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="160" alt="Buy Me A Coffee" />
-  </a>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=herath98&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </p>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
